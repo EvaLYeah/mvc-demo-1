@@ -1,0 +1,9 @@
+#app1 #number {
+	font-size: 50px;
+	color: blue;
+}
+
+#app1 > button {
+	width: 10vw;
+	height: 5vh;
+}
